@@ -1,0 +1,5 @@
+---
+entries:
+  - archetype:
+      description: "Basic Archetype starter"
+      source: https://github.com/archetect/basic-archetype-starter.archetype.git
