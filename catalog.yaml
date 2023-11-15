@@ -3,3 +3,6 @@ entries:
   - archetype:
       description: "Basic Archetype starter"
       source: https://github.com/archetect/basic-archetype-starter.archetype.git
+  - archetype:
+      description: "Basic Catalog starter"
+      source: https://github.com/archetect/basic-catalog-starter.archetype.git
