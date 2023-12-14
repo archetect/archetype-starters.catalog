@@ -1,4 +1,7 @@
 ---
+requires:
+  archetect: 2.0.0-ALPHA.8
+
 entries:
   - archetype:
       description: "Basic Archetype starter"
